@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(197, 202, 222);
+    text-align: center;
+}
+#box{
+    border-radius: 10pt;
+    padding: 10px;
+    text-align: center;
+    width: 215px;
+    height: 325px; ;
+    background-color: azure;
+    
+}
+.container {
+  display: flex;
+  justify-content: center;  
+  align-items: center;     
+  height: 100vh;            
+}
+
+#p1{
+    font-style:normal;
+    font: weight 200px;;
+}
+#im{
+   border-radius: 5pt;
+}
+#p2{
+    color:rgb(74, 70, 70);
+}
