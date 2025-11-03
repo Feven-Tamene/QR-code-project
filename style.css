@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(197, 202, 222);
+    background-color: rgb(175, 189, 205);
     text-align: center;
 }
 #box{
-    width: 320px;
-    height: 499px;
+    width: 220px;
+    height: 399px;
     padding: 16px 16px 40px 16px;
     border-radius: 20px;
     display: flex;
@@ -33,4 +33,5 @@ body{
     color:rgb(74, 70, 70);
 
 }
+
 
