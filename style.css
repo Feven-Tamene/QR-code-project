@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     gap: 24px;
-    background-color: var(--white);
+    background-color: white;
     
 }
 .container {
@@ -33,5 +33,6 @@ body{
     color:rgb(74, 70, 70);
 
 }
+
 
 
