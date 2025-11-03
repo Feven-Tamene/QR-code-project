@@ -20,11 +20,12 @@ body{
 
 #p1{
     font-style:normal;
-    font: weight 200px;;
+    font-weight: 200px;;
 }
 #im{
    border-radius: 5pt;
 }
 #p2{
     color:rgb(74, 70, 70);
+
 }
