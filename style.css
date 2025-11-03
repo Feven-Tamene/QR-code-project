@@ -3,12 +3,16 @@ body{
     text-align: center;
 }
 #box{
-    border-radius: 10pt;
-    padding: 10px;
-    text-align: center;
-    width: 215px;
-    height: 325px; ;
-    background-color: azure;
+    width: 320px;
+    height: 499px;
+    padding: 16px 16px 40px 16px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    background-color: var(--white);
     
 }
 .container {
@@ -29,3 +33,4 @@ body{
     color:rgb(74, 70, 70);
 
 }
+
