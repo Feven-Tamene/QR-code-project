@@ -1,0 +1,45 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+    text-align: center;
+}
+#box{
+    width: 150px;
+    height: 280px;
+    padding: 20px;;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    background-color: white;
+    box-shadow: inset;
+    
+}
+.container {
+  display: flex;
+  justify-content: center;  
+  align-items: center;     
+  height: 100vh;            
+}
+
+#p1{
+    font-style:normal;
+    font-weight:  500px;
+    font-size: small;
+} 
+#im{
+   border-radius: 5pt;
+   height: 170px;
+   width: 170;
+   margin-top: -40px;
+   padding: 5;
+}
+#p2{
+    color:rgb(109, 103, 103);
+    font-size: x-small;
+}
+p{
+    margin: 0%;
+    
+}
